@@ -1,3 +1,3 @@
-def add(int a, int b){
-  echo ${int a+ int b} 
+def add(a,b){
+  echo "Addition = ${a+b} "
 }
