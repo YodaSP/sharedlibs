@@ -1,3 +1,3 @@
-def environment(){
+def env(){
   sh 'printenv'
 }
