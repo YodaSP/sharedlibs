@@ -1,0 +1,3 @@
+def environment{
+  sh 'printenv'
+}
